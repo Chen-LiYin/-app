@@ -1,0 +1,22 @@
+.add {
+    min-width: 20%;
+    border:none;
+    padding:15px 32px;
+    text-align:center;
+    display:inline-block;
+}
+#deletBtn{
+    background-color: rgb(106, 103, 103);
+    color:aliceblue;
+    
+}
+#addedBtn{
+    background-color: rgb(245, 187, 187);
+}
+.input {
+    min-width: 15%;
+}
+
+div.app{
+    border:1px;
+}
